@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhareShruti
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python Programming, Data Visualization, and Data Analytics.
+- 🌱 I’m currently learning Python Programming and exploring in Artificial Intelligence and Data Science.
 - 📫 How to reach me shrutikhare612@gmail.com
 
 <!---
